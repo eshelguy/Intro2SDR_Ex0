@@ -1,5 +1,3 @@
-# Intro2SDR_Ex0
-
 # FM Receiver using GNU Radio
 
 ## Overview
